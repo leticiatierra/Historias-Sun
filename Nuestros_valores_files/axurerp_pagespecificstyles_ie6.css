@@ -8,43 +8,48 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u2_normal.png");
 }
 
-* html .u4_normal {
+* html .u4_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u4_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u4_line.png");
 }
 
-* html .u6_line {
+* html .u5_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u6_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u5_line.png");
 }
 
-* html .u7_line {
+* html .u12_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u7_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u12_line.png");
 }
 
-* html .u8_line {
+* html .u13_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u8_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u13_line.png");
 }
 
-* html .u9_line {
+* html .u28_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u9_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u28_line.png");
 }
 
-* html .u16_line {
+* html .u30_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u16_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u30_normal.png");
 }
 
-* html .u17_line {
+* html .u35_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u17_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u35_line.png");
 }
 
-* html .u32_line {
+* html .u36_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u32_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u36_line.png");
+}
+
+* html .u38_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestros_valores_files/u38_line.png");
 }
 

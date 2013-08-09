@@ -24,8 +24,8 @@ div {
 
 .u0 {
     position:absolute;
-    left:392px;
-    top:134px;
+    left:31px;
+    top:188px;
     width:100px;
     height:25px;
     ;
@@ -74,86 +74,10 @@ div {
     word-wrap:break-word;
 }
 
-.u3_normal {
-    background-image: url('../Nuestras_Historias_files/u3_normal.png');
-}
-
-.u3_container {
+.u3 {
     position:absolute;
-    left:10px;
-    top:80px;
-    width:817px;
-    height:30px;
-}
-
-#u3_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:823px;
-    height:36px;
-}
-
-.u4 {
-    position:absolute;
-    left:2px;
-    top:7px;
-    width:813px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u5_line {
-    background-image: url('../Nuestras_Historias_files/u5_line.png');
-}
-
-.u5_line {
-    position:absolute;
-    left:4px;
-    top:0px;
-    width:3px;
-    height:16px;
-}
-
-.u5 {
-    position:absolute;
-    left:104px;
-    top:88px;
-    width:10px;
-    height:16px;
-    
-}
-
-.u6_line {
-    background-image: url('../Nuestras_Historias_files/u6_line.png');
-}
-
-.u6_line {
-    position:absolute;
-    left:4px;
-    top:0px;
-    width:3px;
-    height:16px;
-}
-
-.u6 {
-    position:absolute;
-    left:217px;
-    top:89px;
-    width:10px;
-    height:16px;
-    
-}
-
-.u7 {
-    position:absolute;
-    left:33px;
-    top:185px;
+    left:31px;
+    top:238px;
     width:434px;
     height:19px;
     ;
@@ -164,10 +88,10 @@ div {
     word-wrap:break-word;
 }
 
-.u8 {
+.u4 {
     position:absolute;
-    left:33px;
-    top:260px;
+    left:31px;
+    top:312px;
     width:401px;
     height:143px;
     ;
@@ -178,10 +102,10 @@ div {
     word-wrap:break-word;
 }
 
-.u9 {
+.u5 {
     position:absolute;
-    left:33px;
-    top:429px;
+    left:31px;
+    top:482px;
     width:148px;
     height:13px;
     ;
@@ -192,11 +116,11 @@ div {
     word-wrap:break-word;
 }
 
-.u10_line {
-    background-image: url('../Nuestras_Historias_files/u10_line.png');
+.u6_line {
+    background-image: url('../Nuestras_Historias_files/u6_line.png');
 }
 
-.u10_line {
+.u6_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -204,19 +128,19 @@ div {
     height:3px;
 }
 
-.u10 {
+.u6 {
     position:absolute;
-    left:27px;
-    top:460px;
+    left:25px;
+    top:512px;
     width:327px;
     height:10px;
     
 }
 
-.u11 {
+.u7 {
     position:absolute;
-    left:33px;
-    top:214px;
+    left:31px;
+    top:266px;
     width:108px;
     height:11px;
     ;
@@ -227,10 +151,10 @@ div {
     word-wrap:break-word;
 }
 
-.u12 {
+.u8 {
     position:absolute;
-    left:33px;
-    top:225px;
+    left:31px;
+    top:278px;
     width:69px;
     height:11px;
     ;
@@ -241,10 +165,10 @@ div {
     word-wrap:break-word;
 }
 
-.u13 {
+.u9 {
     position:absolute;
-    left:39px;
-    top:496px;
+    left:37px;
+    top:548px;
     width:434px;
     height:19px;
     ;
@@ -255,10 +179,10 @@ div {
     word-wrap:break-word;
 }
 
-.u14 {
+.u10 {
     position:absolute;
-    left:39px;
-    top:571px;
+    left:37px;
+    top:624px;
     width:401px;
     height:143px;
     ;
@@ -269,10 +193,10 @@ div {
     word-wrap:break-word;
 }
 
-.u15 {
+.u11 {
     position:absolute;
-    left:39px;
-    top:740px;
+    left:37px;
+    top:792px;
     width:401px;
     height:13px;
     ;
@@ -283,11 +207,11 @@ div {
     word-wrap:break-word;
 }
 
-.u16_line {
-    background-image: url('../Nuestras_Historias_files/u16_line.png');
+.u12_line {
+    background-image: url('../Nuestras_Historias_files/u12_line.png');
 }
 
-.u16_line {
+.u12_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -295,19 +219,19 @@ div {
     height:3px;
 }
 
-.u16 {
+.u12 {
     position:absolute;
-    left:33px;
-    top:771px;
+    left:31px;
+    top:824px;
     width:327px;
     height:10px;
     
 }
 
-.u17 {
+.u13 {
     position:absolute;
-    left:39px;
-    top:525px;
+    left:37px;
+    top:578px;
     width:108px;
     height:11px;
     ;
@@ -318,11 +242,11 @@ div {
     word-wrap:break-word;
 }
 
-.u18_normal {
-    background-image: url('../Nuestras_Historias_files/u18_normal.png');
+.u14_normal {
+    background-image: url('../Nuestras_Historias_files/u14_normal.png');
 }
 
-.u18_container {
+.u14_container {
     position:absolute;
     left:25px;
     top:14px;
@@ -330,7 +254,7 @@ div {
     height:48px;
 }
 
-#u18_img {
+#u14_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -338,7 +262,7 @@ div {
     height:48px;
 }
 
-.u19 {
+.u15 {
     position:absolute;
     left:2px;
     top:16px;
@@ -352,19 +276,19 @@ div {
     word-wrap:break-word;
 }
 
-.u20_normal {
-    background-image: url('../Nuestras_Historias_files/u20_normal.png');
+.u16_normal {
+    background-image: url('../Nuestras_Historias_files/u16_normal.png');
 }
 
-.u20_container {
+.u16_container {
     position:absolute;
-    left:365px;
-    top:209px;
+    left:363px;
+    top:262px;
     width:14px;
     height:11px;
 }
 
-#u20_img {
+#u16_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -372,12 +296,74 @@ div {
     height:11px;
 }
 
-.u21 {
+.u17 {
     position:absolute;
     left:2px;
     top:-2px;
     width:10px;
     height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:380px;
+    top:262px;
+    width:53px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../Nuestras_Historias_files/u16_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:370px;
+    top:570px;
+    width:14px;
+    height:11px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:14px;
+    height:11px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:387px;
+    top:570px;
+    width:53px;
+    height:11px;
     ;
     ;
     ;
@@ -388,70 +374,8 @@ div {
 
 .u22 {
     position:absolute;
-    left:382px;
-    top:209px;
-    width:53px;
-    height:11px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u23_normal {
-    background-image: url('../Nuestras_Historias_files/u20_normal.png');
-}
-
-.u23_container {
-    position:absolute;
-    left:372px;
-    top:517px;
-    width:14px;
-    height:11px;
-}
-
-#u23_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:14px;
-    height:11px;
-}
-
-.u24 {
-    position:absolute;
-    left:2px;
-    top:-2px;
-    width:10px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u25 {
-    position:absolute;
-    left:389px;
-    top:517px;
-    width:53px;
-    height:11px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u26 {
-    position:absolute;
-    left:39px;
-    top:536px;
+    left:37px;
+    top:588px;
     width:69px;
     height:11px;
     ;
@@ -462,10 +386,10 @@ div {
     word-wrap:break-word;
 }
 
-.u27 {
+.u23 {
     position:absolute;
-    left:29px;
-    top:134px;
+    left:333px;
+    top:188px;
     width:100px;
     height:25px;
     ;
@@ -480,19 +404,19 @@ div {
     
 }
 
-.u28_normal {
-    background-image: url('../Nuestras_Historias_files/u28_normal.png');
+.u24_normal {
+    background-image: url('../Nuestras_Historias_files/u24_normal.png');
 }
 
-.u28_container {
+.u24_container {
     position:absolute;
-    left:400px;
-    top:142px;
+    left:39px;
+    top:196px;
     width:15px;
     height:9px;
 }
 
-#u28_img {
+#u24_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -500,7 +424,7 @@ div {
     height:9px;
 }
 
-.u29 {
+.u25 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -514,19 +438,19 @@ div {
     word-wrap:break-word;
 }
 
-.u30_normal {
-    background-image: url('../Nuestras_Historias_files/u30_normal.png');
+.u26_normal {
+    background-image: url('../Nuestras_Historias_files/u26_normal.png');
 }
 
-.u30_container {
+.u26_container {
     position:absolute;
-    left:344px;
-    top:429px;
+    left:342px;
+    top:482px;
     width:14px;
     height:13px;
 }
 
-#u30_img {
+#u26_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -534,12 +458,74 @@ div {
     height:13px;
 }
 
-.u31 {
+.u27 {
     position:absolute;
     left:2px;
     top:-2px;
     width:10px;
     height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:363px;
+    top:480px;
+    width:105px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../Nuestras_Historias_files/u26_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:342px;
+    top:794px;
+    width:14px;
+    height:13px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:14px;
+    height:13px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:363px;
+    top:792px;
+    width:105px;
+    height:13px;
     ;
     ;
     ;
@@ -549,68 +535,6 @@ div {
 }
 
 .u32 {
-    position:absolute;
-    left:365px;
-    top:428px;
-    width:105px;
-    height:13px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u33_normal {
-    background-image: url('../Nuestras_Historias_files/u30_normal.png');
-}
-
-.u33_container {
-    position:absolute;
-    left:344px;
-    top:741px;
-    width:14px;
-    height:13px;
-}
-
-#u33_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:14px;
-    height:13px;
-}
-
-.u34 {
-    position:absolute;
-    left:2px;
-    top:-2px;
-    width:10px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u35 {
-    position:absolute;
-    left:365px;
-    top:740px;
-    width:105px;
-    height:13px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u36 {
     position:absolute;
     left:603px;
     top:312px;
@@ -624,11 +548,39 @@ div {
     word-wrap:break-word;
 }
 
-.u38 {
+.u34 {
     position:absolute;
     left:16px;
     top:0px;
     width:82px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:104px;
     height:15px;
     ;
     ;
@@ -656,7 +608,7 @@ div {
     position:absolute;
     left:16px;
     top:0px;
-    width:104px;
+    width:82px;
     height:15px;
     ;
     ;
@@ -680,38 +632,10 @@ div {
     word-wrap:break-word;
 }
 
-.u46 {
+.u45 {
     position:absolute;
-    left:16px;
-    top:0px;
-    width:82px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u48 {
-    position:absolute;
-    left:16px;
-    top:0px;
-    width:82px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u49 {
-    position:absolute;
-    left:603px;
-    top:134px;
+    left:594px;
+    top:536px;
     width:231px;
     height:16px;
     ;
@@ -722,12 +646,75 @@ div {
     word-wrap:break-word;
 }
 
-.u50 {
+.u46 {
     position:absolute;
-    left:605px;
-    top:170px;
+    left:596px;
+    top:572px;
     width:231px;
     height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_line {
+    background-image: url('../Nuestras_Historias_files/u47_line.png');
+}
+
+.u47_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:166px;
+    height:3px;
+}
+
+.u47 {
+    position:absolute;
+    left:594px;
+    top:552px;
+    width:166px;
+    height:10px;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:594px;
+    top:635px;
+    width:231px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:712px;
+    top:4px;
+    width:102px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:766px;
+    top:4px;
+    width:102px;
+    height:12px;
     ;
     ;
     ;
@@ -742,27 +729,27 @@ div {
 
 .u51_line {
     position:absolute;
-    left:0px;
-    top:4px;
-    width:166px;
-    height:3px;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:16px;
 }
 
 .u51 {
     position:absolute;
-    left:603px;
-    top:150px;
-    width:166px;
-    height:10px;
+    left:754px;
+    top:2px;
+    width:10px;
+    height:16px;
     
 }
 
 .u52 {
     position:absolute;
-    left:603px;
-    top:233px;
+    left:594px;
+    top:120px;
     width:231px;
-    height:45px;
+    height:16px;
     ;
     ;
     ;
@@ -773,22 +760,105 @@ div {
 
 .u53 {
     position:absolute;
-    left:712px;
-    top:4px;
-    width:102px;
-    height:12px;
+    left:596px;
+    top:156px;
+    width:231px;
+    height:45px;
     ;
     ;
     ;
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u54_line {
+    background-image: url('../Nuestras_Historias_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:166px;
+    height:3px;
 }
 
 .u54 {
     position:absolute;
-    left:766px;
-    top:4px;
+    left:594px;
+    top:136px;
+    width:166px;
+    height:10px;
+    
+}
+
+.u55 {
+    position:absolute;
+    left:594px;
+    top:219px;
+    width:231px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:20px;
+    top:136px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../Nuestras_Historias_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:10px;
+    top:80px;
+    width:817px;
+    height:30px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:823px;
+    height:36px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:813px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:16px;
+    top:91px;
     width:102px;
     height:12px;
     ;
@@ -799,11 +869,39 @@ div {
     word-wrap:break-word;
 }
 
-.u55_line {
-    background-image: url('../Nuestras_Historias_files/u55_line.png');
+.u60 {
+    position:absolute;
+    left:124px;
+    top:91px;
+    width:102px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
-.u55_line {
+.u61 {
+    position:absolute;
+    left:302px;
+    top:91px;
+    width:102px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_line {
+    background-image: url('../Nuestras_Historias_files/u62_line.png');
+}
+
+.u62_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -811,19 +909,40 @@ div {
     height:16px;
 }
 
-.u55 {
+.u62 {
     position:absolute;
-    left:754px;
-    top:2px;
+    left:217px;
+    top:89px;
     width:10px;
     height:16px;
     
 }
 
-.u56 {
+.u63_line {
+    background-image: url('../Nuestras_Historias_files/u63_line.png');
+}
+
+.u63_line {
     position:absolute;
-    left:16px;
-    top:88px;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:16px;
+}
+
+.u63 {
+    position:absolute;
+    left:108px;
+    top:89px;
+    width:10px;
+    height:16px;
+    
+}
+
+.u64 {
+    position:absolute;
+    left:236px;
+    top:91px;
     width:102px;
     height:12px;
     ;
@@ -834,31 +953,24 @@ div {
     word-wrap:break-word;
 }
 
-.u57 {
-    position:absolute;
-    left:126px;
-    top:89px;
-    width:102px;
-    height:12px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+.u65_line {
+    background-image: url('../Nuestras_Historias_files/u65_line.png');
 }
 
-.u58 {
+.u65_line {
     position:absolute;
-    left:240px;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:16px;
+}
+
+.u65 {
+    position:absolute;
+    left:282px;
     top:89px;
-    width:102px;
-    height:12px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+    width:10px;
+    height:16px;
+    
 }
 

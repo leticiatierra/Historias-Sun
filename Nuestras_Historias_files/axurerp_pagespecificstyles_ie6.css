@@ -3,59 +3,49 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u1_normal.png");
 }
 
-* html .u3_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u3_normal.png");
-}
-
-* html .u5_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u5_line.png");
-}
-
 * html .u6_line {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u6_line.png");
 }
 
-* html .u10_line {
+* html .u12_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u10_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u12_line.png");
 }
 
-* html .u16_line {
+* html .u14_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u16_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u14_normal.png");
 }
 
-* html .u18_normal {
+* html .u16_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u18_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u16_normal.png");
 }
 
-* html .u20_normal {
+* html .u19_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u16_normal.png");
 }
 
-* html .u23_normal {
+* html .u24_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u24_normal.png");
 }
 
-* html .u28_normal {
+* html .u26_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u28_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u26_normal.png");
 }
 
-* html .u30_normal {
+* html .u29_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u30_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u26_normal.png");
 }
 
-* html .u33_normal {
+* html .u47_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u30_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u47_line.png");
 }
 
 * html .u51_line {
@@ -63,8 +53,28 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u51_line.png");
 }
 
-* html .u55_line {
+* html .u54_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u55_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u54_line.png");
+}
+
+* html .u57_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u57_normal.png");
+}
+
+* html .u62_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u62_line.png");
+}
+
+* html .u63_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u63_line.png");
+}
+
+* html .u65_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nuestras_Historias_files/u65_line.png");
 }
 
