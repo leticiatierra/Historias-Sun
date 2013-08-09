@@ -11,7 +11,7 @@ $axure.eventManager.click('u22', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Nuestro_legado.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('BLOG.html');
 
 }
 });
@@ -44,7 +44,7 @@ $axure.eventManager.click('u27', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Nuestro_legado.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('BLOG.html');
 
 }
 });
